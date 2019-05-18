@@ -1,0 +1,71 @@
+Permisi. mungkin ada yang butuh materi tentang Data Science
+
+Acara2: DSW, MFM, NGO/SGO, Jatim Camp(2x Setahun), Boot Camp
+Cek Kugram Data Science Indonesia
+
+datascience.or.id -> info DSI
+
+Search data > publish > make money
+Smart city? Make people smart
+
+Most important! Keep Learning
+Materi tidak diulang di setiap pertemuan, bertanya di pertemuan
+Ikuti Datathon
+
+Skills yang dibutuhkan
+Math dan Statistika
+Computer Science -> Python, R
+Domain Knowledge -> Berkaitan dengan bidang data, butuh pengalaman dan jam terbang
+Statistical Learning -> Machine Learning
+Introduction machine learning
+Teori data science
+Baca jurnal/riset
+Soft Skill
+Kritis
+Analisa behaviour
+Analisa infrastructure
+Gunakan Github dan Linkedin
+Dibutuhkan saat kerja? Utama portofolio dari sertifikasi -> analisa data di github, tulisan di github
+Data Science -> analisa data
+Data Engineering -> metode terbaik ngolah data
+
+Learn
+Kaggle -> kernel -> analysis data -> reverse engineer
+Datacamp -> interactive -> step by step
+Udacity
+Medium
+Networking
+
+Tools
+Python, Excel, R Studio, Tableau
+
+Link Github
+https://github.com/Rakhid16/Intro-ML-Python
+
+https://docs.anaconda.com/anaconda/user-guide/getting-started
+https://anaconda.org/
+
+pandas
+matplotlib
+tensorflow
+google colab -> python
+
+Notes:
+Nanti ada Data Scientist Club PENS, gratis join
+
+Supervised Learning -> ada targetnya
+Metode
+	Klasifikasi -> bisa dilabel i
+	Clustering -> tidak bisa dilabel i
+	Regresi
+variable dependent
+variable independent
+
+Unsupervised Learning -> tidak ada targetnya -> cari polanya sendiei
+
+import pandas as pd #baca frame
+import seaborn as sns #plotting data
+from sklearn.neighbors import KNeighborsClassifier #prediksi data msauk kategori apa
+
+continous data
+categorical data
