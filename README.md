@@ -1,1 +1,1 @@
-# DataScience
+# Project untuk mencoba bagian data science, bagian project ini terdiri dari workshop yang dilaksanakan oleh Data Science Indonesia untuk menggunakan python dan pandas untuk menampilkan dataset yang ada
